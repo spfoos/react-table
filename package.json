@@ -1,5 +1,6 @@
 {
   "private": true,
+    "name": "react-table",
     "version": "0.0.1-alpha.0",
   "repository": "https://github.com/spfoos/react-table.git",
   "scripts": {
